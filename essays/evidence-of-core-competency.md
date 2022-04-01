@@ -2,7 +2,7 @@
 layout: essay  
 type: essay  
 title: Evidence of Core Competency  
-date: 2016-08-29  
+date: 2022-03-31  
 labels:
   - PhD Portfolio
 ---
@@ -11,11 +11,11 @@ labels:
 
 ## Evidence of MS degree
 
-* MS Degree Certificate: Filed with ICS Department
+* MS Degree Transcripts: Filed with ICS Department
 
 ## Results of Qualifying Exam
 
-* Passed on December 2nd, 2014
+* Passed on December 21st, 2020
 * Other conditions: None
 * Details and Form I with ICS Graduate Chair
 
