@@ -2,7 +2,7 @@
   "basics": {
     "name": "Justin Fletcher",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/Justin.Fletcher_2409.jpg",
+    "picture": "https://techfolios.github.io/images/Justin.Fletcher_2409.jpg",
     "email": "molly@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://justinfletcher.github.io",
@@ -17,42 +17,40 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "justinfletcher",
+        "url": "http://github.com/justinfletcher"
       },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
       "name": "artificial intelligence",
       "keywords": [
+        "deep learning",
+        "computer vision",
+        "decision making under uncertainty",
+      ]
+    },
+    {
+      "name": "autonomy",
+      "keywords": [
+        "multi-agent autonomy",
+        "autonomous situational awareness"
+      ]
+    },
+    {
+      "name": "software engineering",
+      "keywords": [
+        "cloud-fog-edge architecture",
+        "distributed systems",
+        "cloud native"
+      ]
+    },
+    {
+      "name": "remote sensing",
+      "keywords": [
+        "telescopes",
+        "spectral characterization"
       ]
     }
   ],
@@ -61,10 +59,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "Python",
         "C++",
         "Java",
-        "Javascript",
         "Assembly",
         "Common Lisp"
       ]
@@ -73,22 +70,19 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Unix",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2023)",
+      "studyType": "PhD",
+      "startDate": "2020-01-05",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.0",
       "courses": [
       ]
     }
