@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Justin Fletcher",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/template/images/Justin.Fletcher_2409.jpg",
     "email": "molly@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://justinfletcher.github.io",
+    "summary": "I am pursuing a PhD in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96753",
+      "city": "Kihei",
       "countryCode": "USA",
       "region": "Hawaii"
     },
