@@ -15,6 +15,8 @@ labels:
 
 ### Founding Principal Investigator, the Machine Intelligence for Space Superiority Lab
 
+MISS has executed approximately $15M of government funding since the group was founded in 2017. Funds sources include core and competitive fundings, as well as Air Force Office of Scientific Research grants (totaling $400K).
+
 ### Chief Engineer, Maui High Performance Computing Center
 
 ### Program Manager, The Dynamic Optical Telescope System
