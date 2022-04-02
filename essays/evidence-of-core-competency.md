@@ -12,6 +12,7 @@ labels:
 ## Evidence of MS degree
 
 * MS Degree Transcripts: Filed with ICS Department
+* MS Thesis: https://apps.dtic.mil/sti/pdfs/AD1054216.pdf
 
 ## Results of Qualifying Exam
 
