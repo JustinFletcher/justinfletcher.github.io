@@ -15,22 +15,28 @@ labels:
 
 ### Founding Principal Investigator, the Machine Intelligence for Space Superiority Lab
 
-### Chief Engineer, Maui High Performance Computing Cen
+### Chief Engineer, Maui High Performance Computing Center
 
 ## Advising
 
-### Directed Energy Scholars Program
+### Directed Energy Scholars and Akamai Programs
 
-Ran lab for ICS 211 for five semesters which involved creating and grading assignments, assisting in lectures and
-providing hands on coding experience for assignments and lab exercises.
+Supervised serval scholars for during 3-month summer internships from 2017-2021. Past scholars include:
+
+* William Mitchell, PhD Student, University of North Texas (2021)
+* Kaitlin Dennison, PhD Candidate, Stanford University. (2019, 2021)
+* Nikolaus Salvatore, MS, University of Pittsburgh (2020).
+* Alex Gao, MS, University of California, Berkeley (2019)
+* Matthew Harwood, MS, Georgia Institute of Technology (2019)
+* Jeremiah Sanders, PhD, MD Anderson Cancer Center. (2017, 2018, 2019)
+* Christopher Kim, BS, Yale University (2018)
+* Diego Langno, MS, University of Texas at El Paso (2017).
+* Tyler LaBonte, BS,  University of Southern California (2017)
 
 ## Research
 
 ### SatNet
-
-Designed a software framework for the acquisition, persistence, analysis, and reporting of real-time distributed
-infrasound data. More information can be found under the [Lokahi](https://redvox.io) project.
-
+Designed and implemented a computer vision approach to deep space resident space object detection. 
 
 ## Selected Professional Presentations
 
@@ -46,9 +52,9 @@ _A Dynamic Optical Telescope System_. United States Air Force Scientific Advisor
 
 ## Service
 
-### Session Chair, Artificial Intelligence, Spaceflight Mechanics Meeting, American Astronautical Society. February, 2021.
+Session Chair, Artificial Intelligence, Spaceflight Mechanics Meeting, American Astronautical Society. February, 2021.
 
-### Area Chair,  Machine Learning Applications, AMOS Conference. September, 2020.
+Area Chair,  Machine Learning Applications, AMOS Conference. September, 2020.
 
 ## More Details
 
