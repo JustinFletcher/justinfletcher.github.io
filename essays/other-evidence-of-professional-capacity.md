@@ -11,18 +11,19 @@ labels:
 
 ## Employment
 
-### Artificial Intelligence Portfolio Lead, Special Projects Directorate, Space Systems Command, United States Space Force
+### Artificial Intelligence and Autonomy Portfolio Lead, Special Projects Directorate, Space Systems Command, USSF
 
 ### Founding Principal Investigator, the Machine Intelligence for Space Superiority Lab
 
 ### Chief Engineer, Maui High Performance Computing Center
 
+### Program Manager, The Dynamic Optical Telescope System
+
 ## Advising
 
 ### Directed Energy Scholars and Akamai Programs
 
-Supervised serval scholars for during 3-month summer internships from 2017-2021. Past scholars include:
-
+Supervised serval scholars during 3-month summer internships from 2017-2021. Past scholars include:
 * William Mitchell, PhD Student, University of North Texas (2021)
 * Kaitlin Dennison, PhD Candidate, Stanford University. (2019, 2021)
 * Nikolaus Salvatore, MS, University of Pittsburgh (2020).
@@ -35,7 +36,18 @@ Supervised serval scholars for during 3-month summer internships from 2017-2021.
 
 ## Research
 
+My role as the lead for the USSF SSC/ECZGA AI and Autonomy project, I directly supervise a variety of research programs. A selection of those programs are described below; only those programs with which I am personally and substantially involved (i.e., directly supervise and/or personally execute) are included.
+
 ### SatNet
+Designed and implemented a computer vision approach to deep space resident space object detection. 
+
+### SpectraNet
+Designed and implemented a computer vision approach to deep space resident space object detection. 
+
+### The Distributed Aperture System for Interferometric Exploitation (DASIE)
+Designed and implemented a computer vision approach to deep space resident space object detection. 
+
+### PoseNet
 Designed and implemented a computer vision approach to deep space resident space object detection. 
 
 ## Selected Professional Presentations
