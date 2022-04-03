@@ -14,7 +14,7 @@ labels:
 I have included below only papers published since January 1st, 2021. For a complete list of prior work please see my [Google Scholar author page](https://scholar.google.com/citations?hl=en&user=YSEl3usAAAAJ&view_op=list_works). For prior work in which I am not the first author, my contributions always include direct supervision of the project. Supervision, here, means directly and routinely adivsing the author on the techncial execution of the project. I am not listed as a coauthor for projects in which my only involvement is managment of the executing personnel. 
 
 
-*Toward deep-space object detection in persistent wide field of view camera arrays*. Justin Fletcher, Peter Sadowski.
+*Towards jointly learned control policies and image recovery for distributed aperture telescopes*. Justin Fletcher, Peter Sadowski.
 Presented, SPIE Defense and Commercial Sensing 2022 (SPIE DCS 2022) (2022).
 
 Abstract: 
