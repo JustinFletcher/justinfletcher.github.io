@@ -54,17 +54,21 @@ Designed and implemented a computer vision approach to deep space resident space
 
 ## Selected Professional Presentations
 
-My professional work routine professional presentations. These are far too numerous to enumerate, so I've selected a few that are interesting. This list excludes all archival conference presentations, which are documented under [evidence of scholarly ability](https://justinfletcher.github.io/essays/evidence-of-scholarly-ability.md).
+My professional work routine professional presentations. These are too numerous to list so I've selected a few that are interesting. This list excludes all archival conference presentations, which are identified in my [evidence of scholarly ability](https://justinfletcher.github.io/essays/evidence-of-scholarly-ability.md).
 
-_JASONs Invited Talk: Prospects for Artificial Intelligence in Space Situational Awareness_. July 11th, 2017. San Diego, CA. 
+_JASON Invited Talk: Prospects for Artificial Intelligence in Space Situational Awareness_. July 11th, 2017. San Diego, CA. 
 
-_JASONs Invited Talk: Autonomous Dynamic Sensor Management_. July 27th, 2017. San Diego, CA. 
+_JASON Invited Talk: Autonomous Dynamic Sensor Management_. July 27th, 2017. San Diego, CA. 
+
+_Prospects and Progress in Artificial Intelligence and Autonomy for Space Warfighting Applications_. United States Air Force Scientific Advisory Board, May 21st, 2021. Virtual. 
 
 _Node-Level Deep Learning Input Pipeline Optimization on GPGPU-Accelerated HPC Systems_ GPU Technology Conference, March 28th, 2018. San Jose, CA.
 
 _A Dynamic Optical Telescope System_. United States Air Force Scientific Advisory Board, November 16th, 2017. Albuqueque, NM. *Best Presentation* 
 
 ## Service
+
+Session Chair, Space Domain Awareness, SPIE Defense and Commercial Sensing, SPIE. April, 2022.
 
 Session Chair, Artificial Intelligence, Spaceflight Mechanics Meeting, American Astronautical Society. February, 2021.
 
