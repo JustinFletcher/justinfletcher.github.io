@@ -3,8 +3,7 @@
     "name": "Justin Fletcher",
     "label": "Student",
     "picture": "https://justinfletcher.github.io/images/Justin.Fletcher_2409.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "email": "jfletch@hawaii.edu",
     "website": "https://justinfletcher.github.io",
     "summary": "I am pursuing a PhD in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
@@ -60,10 +59,9 @@
       "level": "",
       "keywords": [
         "Python",
+        "TensorFlow",
         "C++",
         "Java",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -71,7 +69,9 @@
       "level": "",
       "keywords": [
         "Unix",
-        "Git/GitHub",
+        "Docker",
+        "Kubernetes",
+        "Git",
       ]
     }
   ],
@@ -83,9 +83,26 @@
       "startDate": "2020-01-05",
       "endDate": "Present",
       "gpa": "4.0",
-      "courses": [
-      ]
-    }
+      "courses": []
+    },
+    {
+      "institution": "The Air Force Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "MS",
+      "startDate": "2015-01-14",
+      "endDate": "2016-05-16",
+      "gpa": "3.93",
+      "courses": []
+    },
+    {
+      "institution": "Embry-Riddle Aeronnautical Unniversity",
+      "area": "Computer Engineering",
+      "studyType": "BS",
+      "startDate": "2008-08-21",
+      "endDate": "2012-05-02",
+      "gpa": "3.32",
+      "courses": []
+    },
   ],
   "work": [
     {
