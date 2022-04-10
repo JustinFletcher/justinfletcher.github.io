@@ -1,79 +1,25 @@
----
-layout: essay    
-type: essay    
-title: Other Evidence of Professional Capacity  
-date: 2019-02-18 
-labels:  
-  - PhD Portfolio
----
 
-*This page presents other evidence of my professional capacity in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes all forms of research, teaching, and service to the community and discipline, including professional vita of employment, professional presentations, reviewing of papers for conferences and journals, competitive fellowships or other external funding awards, patents, teaching, service on committees or as graduate student representatives, and letters of reference.*
+## Background and Research Interests
 
-## Employment
+Are we alone in the cosmos? The question of life's abundance is among the most fundamental unanswered questions about the universe we inhabit and has been approached from many scientific and instrumental perspectives. Yet we are scarcely closer to answering that question today than when it was first asked. Life-bearing worlds, if they exist, continuously transmit messages advertising their existence; these heralds of other life on other worlds fall unheeded on our planet. Why? The study of biosignatures has given us the language to understand these messages. Encoded in the spectral crags and peaks caused by emission and absorption, this language renders life recognizable at any distance. So why don’t we listen? Because we cannot hear them.
 
-### Artificial Intelligence and Autonomy Portfolio Lead, Special Projects Directorate, Space Systems Command, USSF
+The spectral messages that tell us of exoplanetary life are small eddies awash in a sea of noise. Select any of the 5,000 stars known to host exoplanets and view it in the night sky. As you watch, photons from both the star and its planets enter your pupils and stimulate receptors on your retinas. Nearly all of the photons will have travelled to you from the star, but an infinitesimal fraction will have come from it’s nearby companion and will carry with them information about the molecular composition of the atmosphere through which they were reflected. If you could finely sort them by their incident angle and bin them by their wavelength, given enough time, you would be able to determine if the planet possessed chemical evidence of life. Obviously, this is beyond the limits inherent to our form. We build instruments to extend the range of our perception, but we have not yet built an instrument with the angular resolution and contrast necessary to directly image exoplanets for spectral analysis. 
 
-### Founding Principal Investigator, the Machine Intelligence for Space Superiority Lab
+Traditional monolithic glass and steel telescope designs are infeasible when scaled to extremely large optical baselines (i.e., mirror diameters) as is required to achieve the angular resolution necessary for direct exoplanet imaging. Many emerging telescope designs are extremely scalable, but these designs also introduce optical subsystem control challenges which must be solved to compensate for aberrations induced by the design. These aberrations complicate image formation and limit effective resolution but may be corrected by responsive articulation of optical elements. Additionally, different articulation choices result in different optical transfer characteristics opening the way to responsive interferometric control and, by extension, sub-diffraction imaging.
 
-MISS has executed approximately $15M of government funding since the group was founded in 2017. Funds sources include core and competitive fundings, as well as Air Force Office of Scientific Research grants (totaling $400K).
+My research interests involve the development of algorithms that solve these control problems and enable intelligent control of light in optical systems. While direct exoplanet detection and spectral analysis is the motivation for this work, a large enough telescope is not yet built for that objective. There are, however, many analogous imaging targets in orbit around the Earth. Artificial Earth satellites are much nearer than exoplanets but are also much smaller and can be found in a variety of sizes at a range of distances. Satellite imaging is useful as a proxy for exoplanet imaging but is also intrinsically valuable for space traffic management.
 
-### Chief Engineer, Maui High Performance Computing Center
+## Progress
 
-### Program Manager, The Dynamic Optical Telescope System
+I have completed my first publication on learned optical interferometry and image recovery. This work was accepted and presented at SPIE Defense and Commercial Sensing in April 2022. This initial paper demonstrated that it is possible to jointly design open-loop articulation control and recovery algorithms that achieve reconstruction quality exceeding that of an equivalent-size monolithic aperture telescope. This work lacked several sources of error and noise that would exist in a real system but validates the hypothesis that image recovery beyond the diffraction limit of a classical monolithic telescope is possible.
 
-## Advising
 
-### Directed Energy Scholars and Akamai Programs
+##  Goals
 
-Supervised serval scholars during 3-month summer internships from 2017-2021. Past scholars include:
-* William Mitchell, PhD Student, University of North Texas (2021)
-* Kaitlin Dennison, PhD Candidate, Stanford University. (2019, 2021)
-* Nikolaus Salvatore, MS, University of Pittsburgh (2020).
-* Alex Gao, MS, University of California, Berkeley (2019)
-* Matthew Harwood, MS, Georgia Institute of Technology (2019)
-* Jeremiah Sanders, PhD, MD Anderson Cancer Center. (2017, 2018, 2019)
-* Christopher Kim, BS, Yale University (2018)
-* Diego Langno, MS, University of Texas at El Paso (2017).
-* Tyler LaBonte, BS,  University of Southern California (2017)
+During the next six months, I will complete my ongoing work in open-loop MTF ensemble design and and learned image recovery algorithms. Near-term extensions to recent work will include higher fidelity noise modeling, atmospheric aberrations, and several experiments. A bench-level demonstration platform for this system should be available in the fall, and I will likely attempt to apply these techniques on-sky in the fall. 
 
-## Research
+In the following year, I hope to develop a framework that unifies optical interferometry (i.e., closed loop optical element control) and sequential decision making under uncertainty. This framework would enable the design of intelligent visuomotor agents, likely via deep reinforcement learning, to perform closed-loop optical interferometry. If successful, this approach may serve as a foundational technique in optical system design and photonics.
 
-My role as the lead for the USSF SSC/ECZGA AI and Autonomy project, I directly supervise a variety of research programs. A selection of those programs are described below; only those programs with which I am personally and substantially involved (i.e., directly supervise and/or personally execute) are included.
+After my PhD, I will continue in my role leading the artificial intelligence and autonomy portfolio of the USSF Special Projects division analytics branch. If successful, this research may motivate USSF investment in large, distributed aperture telescopes, which I would be well-suited to lead.
 
-### SatNet
-Designed and implemented a computer vision approach to deep space resident space object detection. 
 
-### SpectraNet
-Designed and implemented a computer vision approach to deep space resident space object detection. 
-
-### The Distributed Aperture System for Interferometric Exploitation (DASIE)
-Designed and implemented a computer vision approach to deep space resident space object detection. 
-
-### PoseNet
-Designed and implemented a computer vision approach to deep space resident space object detection. 
-
-## Selected Professional Presentations
-
-My professional work routine professional presentations. These are too numerous to list so I've selected a few that are interesting. This list excludes all archival conference presentations, which are identified in my [evidence of scholarly ability](https://justinfletcher.github.io/essays/evidence-of-scholarly-ability.md).
-
-_JASON Invited Talk: Prospects for Artificial Intelligence in Space Situational Awareness_. July 11th, 2017. San Diego, CA. 
-
-_JASON Invited Talk: Autonomous Dynamic Sensor Management_. July 27th, 2017. San Diego, CA. 
-
-_Prospects and Progress in Artificial Intelligence and Autonomy for Space Warfighting Applications_. United States Air Force Scientific Advisory Board, May 21st, 2021. Virtual. 
-
-_Node-Level Deep Learning Input Pipeline Optimization on GPGPU-Accelerated HPC Systems_ GPU Technology Conference, March 28th, 2018. San Jose, CA.
-
-_A Dynamic Optical Telescope System_. United States Air Force Scientific Advisory Board, November 16th, 2017. Albuqueque, NM. *Best Presentation* 
-
-## Service
-
-Session Chair, Space Domain Awareness, SPIE Defense and Commercial Sensing, SPIE. April, 2022.
-
-Session Chair, Artificial Intelligence, Spaceflight Mechanics Meeting, American Astronautical Society. February, 2021.
-
-Area Chair,  Machine Learning Applications, AMOS Conference. September, 2020.
-
-## More Details
-
-More details can be found on my [CV](https://justinfletcher.github.io/bio/).
