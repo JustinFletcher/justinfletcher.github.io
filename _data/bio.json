@@ -111,7 +111,7 @@
       "website": "",
       "startDate": "2019-06-01",
       "endDate": "Present",
-      "summary": "Leads the SSC/ECZGA AI and Autonomy Sandbox as the SDA Enterprise center of excellence the design, development, and operationalization of AI and autonomy solutions.",
+      "summary": "Leads the SSC/ECZGA AI and Autonomy Sandbox as the SDA Enterprise center of excellence for the design, development, and operationalization of AI and autonomy solutions.",
       "highlights": [
         "Leads a 25-person team executing a $15M/year computer vision research program to automate SDA information extraction tasks",
         "Invented, designed, and manages a global, hybrid cloud-native autonomous situational awareness framework for USSF sensor control",
@@ -119,149 +119,113 @@
       ]
     },
     {
-      "company": "United State Air Force",
-      "position": "Major",
+      "company": "Air Force Research Laboratory",
+      "position": "Principal Investigator, Machine Intelligence for Space Superiority",
       "website": "",
-      "startDate": "20--",
-      "endDate": "20--",
-      "summary": "",
+      "startDate": "2017-05-01",
+      "endDate": "2019-06-01",
+      "summary": "Founded, developed, and led a 12-person lab executing a $15M computer vision research portfolio addressing 11 space domain awareness technology needs",
       "highlights": [
-        "",
-        "",
+        "Supervised and mentored research and development personnel, including 7 graduate students over three years",
+        "Served as the directorate principal representative to the AFRL machine learning working group",
+        "Principle investigator for Air Force Office of Scientific Research generativespace scene simulation lab task"
+      ]
+    },
+    {
+      "company": "Maui High Performance Computing Center",
+      "position": "Chief Engineer",
+      "website": "",
+      "startDate": "2017-05-01",
+      "endDate": "2019-06-01",
+      "summary": "Lead technical authority for operations of the Defense Supercomputing Resource Center in Maui, HI",
+      "highlights": [
+        "Authored strategic plans, acquired high-performance computing (HPC) systems, and supervised technical personnel",
+        "Chief liaison to the United States Pacific Command joint staff for HPC and machine learning applications",
+        "Oversaw operation of Hokule'a, a 32-node IBM Minsky supercomputer designed for machine learning workloads"
+      ]
+    },
+    {
+      "company": "Air Force Research Laboratory",
+      "position": "Program Manager, Dynamic Optical Telescope System,",
+      "website": "",
+      "startDate": "2016-06-15",
+      "endDate": "2017-06-01",
+      "summary": "Directed 38-member team developing and fielding the worlds first fully-autonomous, heterogeneous optical collection asset for space domain awareness",
+      "highlights": [
+        "Managed $33M advanced technology demonstration program including large-scale, multi-system autonomous software development, novel charge-coupled device manufacturing, and optical system design and integration",
+        "Delivered technology on-time and on-budget, obviating acute threat to on-orbit assets",
         ""
       ]
     },
     {
-      "company": "",
-      "position": "",
+      "company": "National Air and Space Intelligence Center",
+      "position": "Air Combat Technical Team Lead, Combat Effectiveness Flight",
       "website": "",
-      "startDate": "20--",
-      "endDate": "20--",
-      "summary": "",
+      "startDate": "2014-03-01",
+      "endDate": "2016-06-15",
+      "summary": "Created and led 4-person team to develop and deploy data-analytic and predictive modeling and simulation software systems for air combat analysis",
       "highlights": [
-        "",
-        "",
-        ""
+        "Designed artificial intelligence modules modeling pilot behavior for DoD-level acquisition studies",
+        "Routinely briefed senior DoD leaders, congressional delegations, and technical experts"
       ]
     },
     {
-      "company": "",
-      "position": "",
+      "company": "National Air and Space Intelligence Center",
+      "position": "Air Combat Effectiveness Analyst, Combat Effectiveness Flight",
       "website": "",
-      "startDate": "20--",
-      "endDate": "20--",
-      "summary": "",
+      "startDate": "2013-08-01",
+      "endDate": "2014-03-01",
+      "summary": "Investigated technical foundations of air combat, producing numerous classified publications",
       "highlights": [
-        "",
-        "",
-        ""
+        "Invented novel analytic methodology to predict air combat outcomes and deployed software to automate analysis tasks",
+        "Analysis used to inform next-generation fighter acquisition, leading to the establishment of a technical team"
       ]
     },
     {
-      "company": "",
-      "position": "",
+      "company": "Air Force Reserve Officer Training Corps",
+      "position": "Admissions Officer",
       "website": "",
-      "startDate": "20--",
-      "endDate": "20--",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "20--",
-      "endDate": "20--",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "20--",
-      "endDate": "20--",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "20--",
-      "endDate": "20--",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "20--",
-      "endDate": "20--",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "startDate": "2012-08-01",
+      "endDate": "2013-08-01",
+      "summary": "Primary recruiter for ocers pursuing technical degrees in the south-eastern United States.",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Meritorious Service Medal",
+      "date": "2019",
+      "awarder": "United States Air Force",
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": ""
+      "title": "Air Force Research Laboratory Commander's Cup (#1/3,264)",
+      "date": "2019",
+      "awarder": "Air Force Research Laboratory"
+    },
+    {
+      "title": "Distinguished Graduate, Squadron Officer School (#1/14)",
+      "date": "2017",
+      "awarder": "United States Air Force"
+    },
+    {
+      "title": "Scientific & Technical Manager of the Year (AFRL/RDSM) (#1/9)",
+      "date": "2016",
+      "awarder": "Air Force Research Laboratory"
+    },
+    {
+      "title": "Commendation Medal",
+      "date": "2016",
+      "awarder": "United States Air Force"
+    },
+    {
+      "title": "Distinguished Graduate, Air Force Reserve Ocer Training Corps (#1/24)",
+      "date": "2012",
+      "awarder": "Air Force Research Laboratory"
+    },
+    {
+      "title": "Jay Adams University Service Award",
+      "date": "2012",
+      "awarder": "Embry-Riddle Aeronautical University"
     }
   ],
   "references": [
