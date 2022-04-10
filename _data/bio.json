@@ -106,27 +106,120 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "United States Space Force Space Systems Command",
+      "position": "Lead, AI and Autonomy (A&AS)",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Leads the SSC/ECZGA AI and Autonomy Sandbox as the SDA Enterprise center of excellence the design, development, and operationalization of AI and autonomy solutions.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Leads a 25-person team executing a $15M/year computer vision research program to automate SDA information extraction tasks",
+        "Invented, designed, and manages a global, hybrid cloud-native autonomous situational awareness framework for USSF sensor control",
+        "Directly manages 4 separate software products, each enhancing USSF digital infrastructure for AI and autonomy"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "United State Air Force",
+      "position": "Major",
+      "website": "",
+      "startDate": "20--",
+      "endDate": "20--",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "20--",
+      "endDate": "20--",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "20--",
+      "endDate": "20--",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "20--",
+      "endDate": "20--",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "20--",
+      "endDate": "20--",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "20--",
+      "endDate": "20--",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "20--",
+      "endDate": "20--",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "20--",
+      "endDate": "20--",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
       ]
     }
   ],
@@ -168,7 +261,7 @@
       "title": "First place",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": ""
     }
   ],
   "references": [
